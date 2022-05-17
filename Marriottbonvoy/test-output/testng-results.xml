@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-15T21:16:24 IST" name="Suite" finished-at="2022-05-15T21:18:42 IST" duration-ms="138102">
+    <groups>
+    </groups>
+    <test started-at="2022-05-15T21:16:24 IST" name="Test1" finished-at="2022-05-15T21:17:21 IST" duration-ms="57720">
+      <class name="Runner.TestCase1">
+        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase1@239b0f9d]" started-at="2022-05-15T21:16:24 IST" name="initialze" finished-at="2022-05-15T21:16:31 IST" duration-ms="7284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialze -->
+        <test-method signature="Test1navigation()[pri:0, instance:Runner.TestCase1@239b0f9d]" started-at="2022-05-15T21:16:31 IST" name="Test1navigation" finished-at="2022-05-15T21:17:19 IST" duration-ms="48080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1navigation -->
+        <test-method is-config="true" signature="tearDownMethod(org.testng.ITestResult)[pri:0, instance:Runner.TestCase1@239b0f9d]" started-at="2022-05-15T21:17:19 IST" name="tearDownMethod" finished-at="2022-05-15T21:17:19 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Test1navigation status=SUCCESS method=TestCase1.Test1navigation()[pri:0, instance:Runner.TestCase1@239b0f9d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase1@239b0f9d]" started-at="2022-05-15T21:17:19 IST" name="teardown" finished-at="2022-05-15T21:17:21 IST" duration-ms="1936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Runner.TestCase1 -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-05-15T21:17:21 IST" name="Test2" finished-at="2022-05-15T21:17:58 IST" duration-ms="36489">
+      <class name="Runner.TestCase2">
+        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase2@275fe372]" started-at="2022-05-15T21:17:21 IST" name="initialze" finished-at="2022-05-15T21:17:24 IST" duration-ms="2770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialze -->
+        <test-method signature="Test2navigation()[pri:0, instance:Runner.TestCase2@275fe372]" started-at="2022-05-15T21:17:24 IST" name="Test2navigation" finished-at="2022-05-15T21:17:57 IST" duration-ms="33101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2navigation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase2@275fe372]" started-at="2022-05-15T21:17:57 IST" name="teardown" finished-at="2022-05-15T21:17:58 IST" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Runner.TestCase2 -->
+    </test> <!-- Test2 -->
+    <test started-at="2022-05-15T21:17:58 IST" name="Test3" finished-at="2022-05-15T21:18:42 IST" duration-ms="43755">
+      <class name="Runner.TestCase3">
+        <test-method is-config="true" signature="initialze()[pri:0, instance:Runner.TestCase3@31e75d13]" started-at="2022-05-15T21:17:58 IST" name="initialze" finished-at="2022-05-15T21:18:01 IST" duration-ms="2973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialze -->
+        <test-method signature="Test3navigation()[pri:0, instance:Runner.TestCase3@31e75d13]" started-at="2022-05-15T21:18:01 IST" name="Test3navigation" finished-at="2022-05-15T21:18:40 IST" duration-ms="39641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3navigation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Runner.TestCase3@31e75d13]" started-at="2022-05-15T21:18:40 IST" name="teardown" finished-at="2022-05-15T21:18:42 IST" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Runner.TestCase3 -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>

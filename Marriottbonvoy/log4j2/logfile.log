@@ -1,0 +1,20 @@
+[INFO ] 2022-05-14 21:42:42.282 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-14 21:44:25.513 [main] BaseClass - login is invalid
+[INFO ] 2022-05-14 21:52:01.593 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-14 21:52:19.057 [main] BaseClass - login is invalid
+[INFO ] 2022-05-14 21:52:56.210 [main] BaseClass - Succesfully validated text message
+[INFO ] 2022-05-14 21:53:45.379 [main] BaseClass - Succesfully found the destination
+[INFO ] 2022-05-15 18:49:16.358 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-15 18:49:38.851 [main] BaseClass - login is invalid
+[INFO ] 2022-05-15 19:27:00.602 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-15 19:27:23.804 [main] BaseClass - login is invalid
+[INFO ] 2022-05-15 19:28:06.615 [main] BaseClass - Succesfully validated text message
+[INFO ] 2022-05-15 19:29:03.617 [main] BaseClass - Succesfully found the destination
+[INFO ] 2022-05-15 19:48:28.439 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-15 19:48:48.800 [main] BaseClass - login is invalid
+[INFO ] 2022-05-15 19:49:20.740 [main] BaseClass - Succesfully validated text message
+[INFO ] 2022-05-15 19:50:16.682 [main] BaseClass - Succesfully found the destination
+[INFO ] 2022-05-15 21:17:01.874 [main] BaseClass - chrome is opened succesfully
+[INFO ] 2022-05-15 21:17:19.779 [main] BaseClass - login is invalid
+[INFO ] 2022-05-15 21:17:57.746 [main] BaseClass - Succesfully validated text message
+[INFO ] 2022-05-15 21:18:40.984 [main] BaseClass - Succesfully found the destination
